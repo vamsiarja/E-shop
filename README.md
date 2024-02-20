@@ -1,4 +1,5 @@
-eCommerce Website
+E-Commerce Website
+
 This repository contains the source code for an eCommerce website developed using HTML, CSS, and JavaScript.
 
 Overview
